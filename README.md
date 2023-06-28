@@ -1,1 +1,1 @@
-# CSE-470-PROJECT-Gadget-Review-System
+# CSE-471-PROJECT-BookStore-Review-System
